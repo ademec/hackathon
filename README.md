@@ -188,24 +188,29 @@ https://drive.google.com/drive/folders/1VkpjYKwyhA4GY7dCzUy0AWMTE3A9npBv?usp=sha
 
 ## Référentiel chartiste
 
-**Sujet**:  
+**Sujet**  
+En collectant les données pour le hackathon, nous nous sommes aperçus que de nombreux jeux faisaient références à des chartistes, sans pour autant disposer de “fil rouge”. C’est l’objectif de ce référentiel ! 
+Pour le constituer nous avons réuni des ressources provenant de plusieurs références : 
+la liste des chartistes selon wikidata
+l’ensemble des chartistes ayant soutenu une thèse (identifiés par un id ppn)
+une liste constitué sur wikipedia
+l’ensemble des ressources constituées pour le hackathon
+Cette ressource à été générée par comparaison des noms de familles et prénoms. De nombreuses chartistes ayant changé de nom après leur mariage, il est possible que certaines lignes soient des doublons. 
+
+Un identifiant unique a été créé pour les besoins de l’événement, vous le retrouverez dans toutes les ressources liées. 
+
+**Ressources**  
+* Ref1 Le référentiel. tableur : 101K (3170 lignes)  
+
+**Référent**  
+* Anne-Laure Huet
+
+**Conditions d'utilisation**  
+données librement diffusables et réutilisables. 
 
 
-**source**: BENC ; SUDOC http://documentation.abes.fr/aideidrefdeveloppeur/index.html  
-**condition d'utilisations** : les données sources sont librement accessibles sur l'API idref mais contiennent néanmoins des données à caractère personnel. {consulter JC Bédague sur la règlementation RGPD}    
-**contact** : Galla Topalian, Camille Carette  
-**volume total** : 132 Ko ; 1346 lignes  
-**format** :CSV (séparé par des virgules)  
-**suivi** : Galla T
-
-
-Une autre source de données d'après wikidata : 
-https://github.com/chartes/hackathon-ademec/blob/master/wikidata_enc_query.csv
-
-
-
-
-
+**Info et téléchargement**  
+https://drive.google.com/drive/folders/1OrYuiQZEwPMNY-EHCZvb7OotjhZcoKkk?usp=sharing
 
 
 
