@@ -1,5 +1,7 @@
 # Hackathon
-Page générale d'information au hackathon de l'ADEMEC
+Liste des données mises à disposition pour le hackathon de l'ADEMEC
+
+
 
 ## Positions de thèses numérisées 
 
