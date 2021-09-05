@@ -20,7 +20,7 @@ La thèse pour le diplôme d'archiviste paléographe est un travail de recherche
 
 
 **Ressources**
-*  P1 : Les métadonnées des positions de thèses. (tableur : 280K ; json : 18 M)  
+*  P1 : Les métadonnées des positions de thèses. (tableur : 280K ; json : 18 M ; 3185 lignes)  
 *  P2 : Les positions de thèse (texte). (Archive zippée 21M ; Dézippée 70M)    
 *  P3 : Les positions de thèse (image). (Pas d’archive téléchargeable (API IIIF))
 
