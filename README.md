@@ -1,5 +1,7 @@
 # Hackathon
-Liste des données mises à disposition pour le hackathon de l'ADEMEC
+Liste des données mises à disposition pour le hackathon de l'ADEMEC.  
+
+L'ensemble des données est accessible dans ce répertoire : https://drive.google.com/drive/folders/1FPxKu_-O3blhbyPyh7GbiL91hpbp_ONH?usp=sharing
 
 
 
